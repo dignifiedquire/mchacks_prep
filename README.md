@@ -1,4 +1,12 @@
-# Hello world!
+# Hello McHacks!
 
-This is a placeholder README file for your project. Update it with information about your project,
-so others can find out more.
+Simple hapi.js example using mongodb in the background.
+
+
+## Usage
+
+```bash
+$ npm install
+$ node index.js
+$ open 127.0.0.1:3000
+```
